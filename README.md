@@ -6,7 +6,7 @@
 
 - <h2>About me</h2>
 
-- I’m a electromechanical technician, SQL analyst and a FullStack programming student
+- I’m a electromechanical technician, SQL analyst and a FullStack web developer
 
 - 🤝 I’m available and looking for work.
 
