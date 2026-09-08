@@ -1,4 +1,4 @@
-<h1 align="center"><b>¡Hola, soy Lautaro Facundo Sosa! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>¡Hola, soy Lautaro Facundo Sosa! pero puedes decirme Facu o Lauti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <em>Desarrollador Web Full-Stack 💻 | Apasionado por el código y los motores 🏎️</em>
@@ -9,10 +9,19 @@
 ### 🏁 Sobre mí
 
 - 🚀 Soy un desarrollador autodidacta, siempre buscando optimizar el rendimiento, tanto en el código como en la pista.
-- ⚙️ Me encanta construir soluciones a medida y no le tengo miedo a meter mano bajo el capó (ya sea ajustando CSS Grid o configurando servidores en AWS).
+- ⚙️ Me encanta construir soluciones a medida. No le tengo miedo a meter mano bajo el capó, ya sea maquetando en el frontend, construyendo un backend robusto o configurando servidores en la nube.
+- 💡 Soy partidario de aplicar la herramienta correcta para el problema correcto: busco la eficiencia, entiendo el negocio y evito la sobreingeniería.
 - 🤝 ¡Estoy disponible y buscando nuevos desafíos profesionales donde aportar mis conocimientos a un gran equipo!
 - 💬 Hablo Español (Nativo) e Inglés Técnico.
 - 📫 ¿Querés armar un proyecto o charlar? Escribime a: **facundososa550@gmail.com**
+
+<br>
+
+### 🏎️ En boxes (Experiencia y Proyectos Destacados)
+
+- 🏆 **MyLogist (SaaS):** Mi mayor logro hasta la fecha. Un sistema desarrollado *end-to-end* (de punta a punta) por mi cuenta y actualmente desplegado en producción sobre **AWS**. ¿Quieres saber mas? Buscalo entre mis repositorios.
+- 💼 **Moby Digital:** Experiencia como Desarrollador Backend **Java**, aplicando metodologías ágiles, principios POO y trabajo en equipo para el desarrollo de soluciones robustas.
+- 🚀 **Falcar V2:** Web diseñada a medida para un cliente real. El foco estuvo en entender a fondo las reglas de negocio y saber exactamente qué aplicar (React + Vite) para lograr conversión directa, resolviendo el problema de forma eficiente y sin sobreingeniería.
 
 <br>
 
@@ -48,6 +57,17 @@
 
 <br>
 
+### 🎨 Chapa y Pintura (Edición y Contenido)
+
+Además de escribir código, me gusta meterle mano a la edición de videos para darle a mis proyectos un acabado visual impecable y profesional:
+<p align="center">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-2B2D35?style=for-the-badge&logo=davinci-resolve&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
+</p>
+
+<br>
+
 ### 📊 Telemetría (GitHub Stats)
 
 <div align="center">
@@ -71,8 +91,5 @@
 
 ---
 <p align="center">
-  <i>Cuando no estoy codeando, podés encontrarme acá:</i><br><br>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" title="Codeando">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" title="Jugando un partido">
-  🏎️ 🏁 🎮
+  <i>Cuando no estoy codeando, probablemente me encuentres en una cancha de fútbol ⚽, armando un buen setup de sim racing (aguante Moza) 🏁 o probando físicas en BeamNG.drive 🚗💨</i>
 </p>
