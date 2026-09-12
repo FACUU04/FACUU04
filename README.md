@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lautaro-sosa-155a392b9" target="_blank">
+  <a href="https://www.linkedin.com/in/lautaro-facundo-sosa-155a392b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:facundososa550@gmail.com">
@@ -56,17 +56,6 @@
   <img src="https://img.shields.io/badge/Photography-4A4A4A?style=flat&logo=aperture&logoColor=white">
 </p>
 
-### 📊 Telemetry (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FACUU04&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FACUU04&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACUU04&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
-</div>
-
 <p align="center">
   <i>"When I'm not coding, you'll find me watching Formula 1 Grand Prix races 🏎️, playing football ⚽, doing photography 📸, or fine-tuning my sim racing setup (Moza hardware fan) 🏁."</i>
 </p>
@@ -107,17 +96,6 @@
   <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white">
   <img src="https://img.shields.io/badge/Fotografía-4A4A4A?style=flat&logo=aperture&logoColor=white">
 </p>
-
-### 📊 Telemetría (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FACUU04&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FACUU04&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACUU04&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
-</div>
 
 <p align="center">
   <i>"Cuando no estoy programando, me vas a encontrar siguiendo cada Gran Premio de Fórmula 1 🏎️, jugando al fútbol ⚽, sacando fotos 📸 o ajustando el setup de sim racing (fans del ecosistema Moza) 🏁."</i>
